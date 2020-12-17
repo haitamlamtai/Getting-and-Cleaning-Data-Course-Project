@@ -7,7 +7,7 @@ activity_labels[,2] <- as.character(activity_labels[,2])
 features <- read.csv("data/features.txt", sep="", header=FALSE)
 
   #Extracting only the measurements 
-  #on the mean and standard deviation for each measurement.
+  #on the mean and standard deviation for each measurement
 wanted_features_rows <- grep(".*mean.*|.*std.*", features[,2])
 wanted_features <- features[wanted_features_rows,2]
 wanted_features = gsub('-mean', 'Mean', wanted_features)
