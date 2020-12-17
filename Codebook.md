@@ -1,0 +1,102 @@
+---
+title: "Codebook"
+output: html_notebook
+---
+
+The data frame has 10299 observation and 81 variable
+
+The first 2 variables 
+`subject` 
+
+and 
+
+`activity`:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+The other 79 variables are:
+tbodyaccmeanx
+tbodyaccmeany
+tbodyaccmeanz
+tgravityaccmeanx
+tgravityaccmeany
+tgravityaccmeanz
+tbodyaccjerkmeanx
+tbodyaccjerkmeany
+tbodyaccjerkmeanz
+tbodygyromeanx
+tbodygyromeany
+tbodygyromeanz
+tbodygyrojerkmeanx
+tbodygyrojerkmeany
+tbodygyrojerkmeanz
+tbodyaccmagmean
+tgravityaccmagmean
+tbodyaccjerkmagmean
+tbodygyromagmean
+tbodygyrojerkmagmean
+fbodyaccmeanx
+fbodyaccmeany
+fbodyaccmeanz
+fbodyaccmeanfreqx
+fbodyaccmeanfreqy
+fbodyaccmeanfreqz
+fbodyaccjerkmeanx
+fbodyaccjerkmeany
+fbodyaccjerkmeanz
+fbodyaccjerkmeanfreqx
+fbodyaccjerkmeanfreqy
+fbodyaccjerkmeanfreqz
+fbodygyromeanx
+fbodygyromeany
+fbodygyromeanz
+fbodygyromeanfreqx
+fbodygyromeanfreqy
+fbodygyromeanfreqz
+fbodyaccmagmean
+fbodyaccmagmeanfreq
+fbodybodyaccjerkmagmean
+fbodybodyaccjerkmagmeanfreq
+fbodybodygyromagmean
+fbodybodygyromagmeanfreq
+fbodybodygyrojerkmagmean
+fbodybodygyrojerkmagmeanfreq
+tbodyaccstdx
+tbodyaccstdy
+tbodyaccstdz
+tgravityaccstdx
+tgravityaccstdy
+tgravityaccstdz
+tbodyaccjerkstdx
+tbodyaccjerkstdy
+tbodyaccjerkstdz
+tbodygyrostdx
+tbodygyrostdy
+tbodygyrostdz
+tbodygyrojerkstdx
+tbodygyrojerkstdy
+tbodygyrojerkstdz
+tbodyaccmagstd
+tgravityaccmagstd
+tbodyaccjerkmagstd
+tbodygyromagstd
+tbodygyrojerkmagstd
+fbodyaccstdx
+fbodyaccstdy
+fbodyaccstdz
+fbodyaccjerkstdx
+fbodyaccjerkstdy
+fbodyaccjerkstdz
+fbodygyrostdx
+fbodygyrostdy
+fbodygyrostdz
+fbodyaccmagstd
+fbodybodyaccjerkmagstd
+fbodybodygyromagstd
+fbodybodygyrojerkmagstd
+
